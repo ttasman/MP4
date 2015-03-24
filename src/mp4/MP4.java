@@ -19,6 +19,7 @@ public class MP4 {
         // TODO code application logic here
         //TESTING McSWAGGER JAGGER
         //It's like instant messaging
+        //Do I have authorization?
     }
     
 }
