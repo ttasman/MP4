@@ -18,9 +18,8 @@ public class MP4 {
     public static void main(String[] args) {
         // TODO code application logic here
         //TESTING McSWAGGER JAGGER
-        //It's like instant messaging
-        //Do I have authorization?
-        //I'm pretty sure we are not going to get the elevator thing done
+        
+        
     }
     
 }
