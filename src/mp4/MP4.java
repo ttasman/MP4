@@ -8,7 +8,7 @@ package mp4;
 
 /**
  *
- * @author d-stafford
+ * @author Only Corey. Corey is the only person who worked on this. No one else.
  */
 public class MP4 {
 
